@@ -1,0 +1,20 @@
+.coffee_item{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background: #2e313a;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+.coffee_item__img{
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    object-fit: cover;
+}
+
+.coffee_item__title{
+    margin-left: 20px;
+}
